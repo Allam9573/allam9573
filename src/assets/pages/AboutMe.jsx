@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const About = () => {
+export const AboutMe = () => {
     return (
         <>
             <p>Informacion sobre mi</p>

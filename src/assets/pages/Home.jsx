@@ -28,7 +28,7 @@ export const Home = () => {
                                 <Link class="nav-link" to={'/allam9573'}>Home</Link>
                             </li>
                             <li class="nav-item">
-                                <Link class="nav-link" to={'/allam9573/technologies'}>Tecnologías</Link>
+                                <Link class="nav-link" to={'/allam9573/technologies/'}>Tecnologías</Link>
                             </li>
                             <li class="nav-item">
                                 <Link class="nav-link" to={''}>Proyectos</Link>
@@ -37,7 +37,7 @@ export const Home = () => {
                                 <Link class="nav-link" to={''}>Acerca de mí</Link>
                             </li>
                             <li class="nav-item">
-                                <Link class="nav-link" to={'/allam9573/cv'}>Mi Curriculum</Link>
+                                <Link class="nav-link" to={'/allam9573/cv/'}>Mi Curriculum</Link>
                             </li>
                             <li class="nav-item">
                                 <Link to={'https://github.com/Allam9573'} target='_blank' className='d-flex h-100 align-items-center justify-content-center' >

@@ -5,6 +5,7 @@ import { Error } from './assets/pages/Error'
 import { Header } from './components/Header'
 import { Technologies } from './components/Technologies'
 import { Portfolio } from './components/Portfolio'
+import { CV } from './assets/pages/CV'
 
 const App = () => {
 
@@ -13,9 +14,9 @@ const App = () => {
       <BrowserRouter>
         <Routes>
           <Route path='/allam9573' element={<Home />} />
-          <Route path='' />
-          <Route path='/allam9573/technologies' element={<Technologies />} />
-          <Route path='/allam9573/portfolio' element={<Portfolio />} />
+          <Route path='/allam9573/cv/' element={<CV/>} />
+          <Route path='/allam9573/technologies/' element={<Technologies />} />
+          <Route path='/allam9573/portfolio/' element={<Portfolio />} />
           <Route path='*' element={<Error />} />
         </Routes>
       </BrowserRouter>

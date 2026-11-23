@@ -5,9 +5,9 @@
 
 Construyo aplicaciones web escalables, APIs REST bien estructuradas y sistemas de gestión y comercio adaptados a procesos reales.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[TU_USUARIO])
-[![Portafolio](https://img.shields.io/badge/Portafolio-Ver%20Proyectos-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://[TU_PORTAFOLIO])
-[![Correo](https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[TU_CORREO])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/allam-argueta-847671118)
+[![Portafolio](https://img.shields.io/badge/Portafolio-Ver%20Proyectos-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://allam9573.github.io/allam9573/)
+[![Correo](https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aallamdaniel@gmail.com)
 
 </div>
 

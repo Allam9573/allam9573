@@ -54,7 +54,7 @@ Soy desarrollador web enfocado en el desarrollo **Full-Stack** con **React (Java
 | **Lionettas** | Tienda en línea con catálogo, carrito de compras y lista de deseos, construida con enfoque full-stack y desplegada en entorno productivo. | `React` `JavaScript` `MySQL` `REST API` |
 
 ---
-
+<!-- 
 ## 📊 Estadísticas en GitHub
 
 <div align="center">
@@ -62,7 +62,7 @@ Soy desarrollador web enfocado en el desarrollo **Full-Stack** con **React (Java
 <img src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO]&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO]&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="165" />
 
-</div>
+</div> -->
 
 ---
 
